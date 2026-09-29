@@ -1,0 +1,51 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L blk_mem_gen_v8_4_8 -L xilinx_vip -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot tb_cpu_with_cache_behav xil_defaultlib.tb_cpu_with_cache xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Register
+Compiling module xil_defaultlib.PC
+Compiling module blk_mem_gen_v8_4_8.blk_mem_gen_v8_4_8_output_stage(...
+Compiling module blk_mem_gen_v8_4_8.blk_mem_gen_v8_4_8_softecc_outpu...
+Compiling module blk_mem_gen_v8_4_8.blk_mem_gen_v8_4_8_mem_module(C_...
+Compiling module blk_mem_gen_v8_4_8.blk_mem_gen_v8_4_8(C_FAMILY="zyn...
+Compiling module xil_defaultlib.Data_Array
+Compiling module blk_mem_gen_v8_4_8.blk_mem_gen_v8_4_8_output_stage(...
+Compiling module blk_mem_gen_v8_4_8.blk_mem_gen_v8_4_8_softecc_outpu...
+Compiling module blk_mem_gen_v8_4_8.blk_mem_gen_v8_4_8_mem_module(C_...
+Compiling module blk_mem_gen_v8_4_8.blk_mem_gen_v8_4_8(C_FAMILY="zyn...
+Compiling module xil_defaultlib.I_Tag_Array
+Compiling module xil_defaultlib.I_Cache
+Compiling module xil_defaultlib.Instruction_Buffer
+Compiling module xil_defaultlib.Control_Logic
+Compiling module xil_defaultlib.RegFile
+Compiling module xil_defaultlib.Hazard_Detection_Unit
+Compiling module xil_defaultlib.Imm_gen
+Compiling module xil_defaultlib.Branch_Comp
+Compiling module xil_defaultlib.Branch_Taken_Delay
+Compiling module xil_defaultlib.Forwarding_Unit
+Compiling module xil_defaultlib.ALU
+Compiling module blk_mem_gen_v8_4_8.blk_mem_gen_v8_4_8_output_stage(...
+Compiling module blk_mem_gen_v8_4_8.blk_mem_gen_v8_4_8_softecc_outpu...
+Compiling module blk_mem_gen_v8_4_8.blk_mem_gen_v8_4_8_mem_module(C_...
+Compiling module blk_mem_gen_v8_4_8.blk_mem_gen_v8_4_8(C_FAMILY="zyn...
+Compiling module xil_defaultlib.Tag_Array
+Compiling module xil_defaultlib.D_Cache
+Compiling module xil_defaultlib.partial_store
+Compiling module xil_defaultlib.partial_load
+Compiling module xil_defaultlib.Pipe_Reg
+Compiling module xil_defaultlib.Pipe_Reg(WIDTH=177)
+Compiling module xil_defaultlib.Pipe_Reg(WIDTH=145)
+Compiling module xil_defaultlib.Pipe_Reg(WIDTH=113)
+Compiling module xil_defaultlib.AXI_Arbiter
+Compiling module xil_defaultlib.Pipelined_CPU
+Compiling module xil_defaultlib.axi_mem_model
+Compiling module xil_defaultlib.tb_cpu_with_cache
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_cpu_with_cache_behav

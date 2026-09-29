@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sun Apr  5 22:32:46 2026
+# Process ID: 25144
+# Current directory: C:/Users/11545/Desktop/Zynq CPU/Pipelined_CPU_With_Cache/Pipelined_CPU_With_Cache.runs/Tag_Array_synth_1
+# Command line: vivado.exe -log Tag_Array.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Tag_Array.tcl
+# Log file: C:/Users/11545/Desktop/Zynq CPU/Pipelined_CPU_With_Cache/Pipelined_CPU_With_Cache.runs/Tag_Array_synth_1/Tag_Array.vds
+# Journal file: C:/Users/11545/Desktop/Zynq CPU/Pipelined_CPU_With_Cache/Pipelined_CPU_With_Cache.runs/Tag_Array_synth_1\vivado.jou
+# Running On        :cdy
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26200
+# Processor Detail  :13th Gen Intel(R) Core(TM) i9-13900HX
+# CPU Frequency     :2419 MHz
+# CPU Physical cores:24
+# CPU Logical cores :32
+# Host memory       :16858 MB
+# Swap memory       :6979 MB
+# Total Virtual     :23837 MB
+# Available Virtual :5642 MB
+#-----------------------------------------------------------
+source Tag_Array.tcl -notrace

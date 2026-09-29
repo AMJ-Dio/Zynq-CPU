@@ -1,0 +1,231 @@
+source tb_Pipelined_CPU.tcl
+
+# set curr_wave [current_wave_config]
+
+# if { [string length $curr_wave] == 0 } {
+
+#   if { [llength [get_objects]] > 0} {
+
+#     add_wave /
+
+#     set_property needs_save false [current_wave_config]
+
+#   } else {
+
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+
+#   }
+
+# }
+
+# run 100ms
+
+ Block Memory Generator module loading initial data...
+
+ Block Memory Generator data initialization complete.
+
+Block Memory Generator module tb_Pipelined_CPU.uut.IMEM_single.IMEM_Pipelined.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+
+Block Memory Generator module tb_Pipelined_CPU.uut.DMEM_Single.DMEM_Pipelined.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+
+Time: 15000 ns | Executing PC: 4
+
+Time: 25000 ns | Executing PC: 8
+
+Time: 35000 ns | Executing PC: c
+
+Time: 45000 ns | Executing PC: 10
+
+Time: 55000 ns | Executing PC: 14
+
+Time: 65000 ns | Executing PC: 18
+
+blk_mem_gen_v8_4_8 collision detected at time: 75000, Instance: tb_Pipelined_CPU.uut.DMEM_Single.DMEM_Pipelined.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 4, B  read address: 4
+
+Time: 85000 ns | Executing PC: 1c
+
+Time: 95000 ns | Executing PC: 20
+
+Time: 105000 ns | Executing PC: 24
+
+Time: 115000 ns | Executing PC: 2c
+
+Time: 125000 ns | Executing PC: 30
+
+Time: 135000 ns | Executing PC: 34
+
+Time: 145000 ns | Executing PC: 38
+
+Time: 155000 ns | Executing PC: 40
+
+Time: 165000 ns | Executing PC: 44
+
+Time: 175000 ns | Executing PC: 48
+
+Time: 185000 ns | Executing PC: 4c
+
+Time: 195000 ns | Executing PC: 34
+
+Time: 205000 ns | Executing PC: 38
+
+Time: 215000 ns | Executing PC: 3c
+
+Time: 225000 ns | Executing PC: 40
+
+Time: 235000 ns | Executing PC: 48
+
+Time: 245000 ns | Executing PC: 4c
+
+Time: 255000 ns | Executing PC: 50
+
+Time: 265000 ns | Executing PC: 54
+
+Time: 275000 ns | Executing PC: 58
+
+Time: 285000 ns | Executing PC: 4c
+
+Time: 295000 ns | Executing PC: 50
+
+Time: 305000 ns | Executing PC: 54
+
+Time: 315000 ns | Executing PC: 58
+
+Time: 325000 ns | Executing PC: 4c
+
+Time: 335000 ns | Executing PC: 50
+
+Time: 345000 ns | Executing PC: 54
+
+Time: 355000 ns | Executing PC: 58
+
+Time: 365000 ns | Executing PC: 5c
+
+Time: 375000 ns | Executing PC: 54
+
+Time: 385000 ns | Executing PC: 58
+
+Time: 395000 ns | Executing PC: 5c
+
+Time: 405000 ns | Executing PC: 54
+
+Time: 415000 ns | Executing PC: 58
+
+Time: 425000 ns | Executing PC: 5c
+
+Time: 435000 ns | Executing PC: 54
+
+Time: 445000 ns | Executing PC: 58
+
+Time: 455000 ns | Executing PC: 5c
+
+Time: 465000 ns | Executing PC: 54
+
+Time: 475000 ns | Executing PC: 58
+
+Time: 485000 ns | Executing PC: 5c
+
+Time: 495000 ns | Executing PC: 54
+
+Time: 505000 ns | Executing PC: 58
+
+Time: 515000 ns | Executing PC: 5c
+
+Time: 525000 ns | Executing PC: 54
+
+Time: 535000 ns | Executing PC: 58
+
+Time: 545000 ns | Executing PC: 5c
+
+Time: 555000 ns | Executing PC: 54
+
+Time: 565000 ns | Executing PC: 58
+
+Time: 575000 ns | Executing PC: 5c
+
+Time: 585000 ns | Executing PC: 54
+
+Time: 595000 ns | Executing PC: 58
+
+Time: 605000 ns | Executing PC: 5c
+
+Time: 615000 ns | Executing PC: 54
+
+Time: 625000 ns | Executing PC: 58
+
+Time: 635000 ns | Executing PC: 5c
+
+Time: 645000 ns | Executing PC: 54
+
+Time: 655000 ns | Executing PC: 58
+
+Time: 665000 ns | Executing PC: 5c
+
+Time: 675000 ns | Executing PC: 54
+
+Time: 685000 ns | Executing PC: 58
+
+Time: 695000 ns | Executing PC: 5c
+
+Time: 705000 ns | Executing PC: 54
+
+Time: 715000 ns | Executing PC: 58
+
+Time: 725000 ns | Executing PC: 5c
+
+Time: 735000 ns | Executing PC: 54
+
+Time: 745000 ns | Executing PC: 58
+
+Time: 755000 ns | Executing PC: 5c
+
+Time: 765000 ns | Executing PC: 54
+
+Time: 775000 ns | Executing PC: 58
+
+Time: 785000 ns | Executing PC: 5c
+
+Time: 795000 ns | Executing PC: 54
+
+Time: 805000 ns | Executing PC: 58
+
+
+
+=========================================================
+
+*** 5-Stage Pipelined CPU Ultimate Stress Test Report ***
+
+=========================================================
+
+Final PC Pointer (Expected stuck at loop 0x54) : 00000058
+
+---------------------------------------------------------
+
+x3  (Expected 0000000c / 12) : 0000000c
+
+x4  (Expected 0000000c / 12) : 0000000c
+
+x5  (Expected 00000011 / 17) : 00000011
+
+x10 (Expected 00001000)      : 00001000
+
+x11 (Expected 00000034 / 52) : 00000034
+
+x13 (Expected 00001001)      : 00001001
+
+x14 (Expected 00000000 / 0 ) : 00000000
+
+=========================================================
+
+
+
+[PASS] PERFECT: Load-Use Stall and Branch Flush both succeeded. x5 data is accurate!
+
+
+
+Simulation completed successfully!
+
+$finish called at time : 812 ns : File "C:/Users/11545/Desktop/Zynq CPU/Pipelined_CPU/Pipelined_CPU.srcs/sim_1/new/Pipelined_CPU_Test.v" Line 77
+
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'tb_Pipelined_CPU_behav' loaded.
+
+INFO: [USF-XSim-97] XSim simulation ran for 100ms

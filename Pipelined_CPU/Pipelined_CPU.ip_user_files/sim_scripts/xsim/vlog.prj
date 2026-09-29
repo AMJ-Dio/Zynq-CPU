@@ -1,0 +1,31 @@
+sv xpm  \
+"C:/Xilinx/Vivado/2024.1/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv" \
+
+verilog blk_mem_gen_v8_4_8  \
+"../../ipstatic/simulation/blk_mem_gen_v8_4.v" \
+
+verilog xil_defaultlib  \
+"../../../Pipelined_CPU.gen/sources_1/ip/Memory/sim/Memory.v" \
+"../../../Pipelined_CPU.gen/sources_1/ip/ROM/sim/ROM.v" \
+"../../../Pipelined_CPU.srcs/sources_1/new/ALU.v" \
+"../../../Pipelined_CPU.srcs/sources_1/new/Branch_Comp.v" \
+"../../../Pipelined_CPU.srcs/sources_1/new/Branch_Taken_Delay.v" \
+"../../../Pipelined_CPU.srcs/sources_1/new/Control_Logic.v" \
+"../../../Pipelined_CPU.srcs/sources_1/new/DMEM.v" \
+"../../../Pipelined_CPU.srcs/sources_1/new/Forwarding_Unit.v" \
+"../../../Pipelined_CPU.srcs/sources_1/new/Hazard_Detection_Unit.v" \
+"../../../Pipelined_CPU.srcs/sources_1/new/IMEM.v" \
+"../../../Pipelined_CPU.srcs/sources_1/new/Imm_gen.v" \
+"../../../Pipelined_CPU.srcs/sources_1/new/PC.v" \
+"../../../Pipelined_CPU.srcs/sources_1/new/Pipe_Reg.v" \
+"../../../Pipelined_CPU.srcs/sources_1/new/RegFile.v" \
+"../../../Pipelined_CPU.srcs/sources_1/new/Register.v" \
+"../../../Pipelined_CPU.srcs/sources_1/new/Single_Period_CPU.v" \
+"../../../Pipelined_CPU.srcs/sources_1/new/partial_load.v" \
+"../../../Pipelined_CPU.srcs/sources_1/new/partial_store.v" \
+"../../../Pipelined_CPU.srcs/sim_1/new/Pipelined_CPU_Test.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

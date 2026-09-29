@@ -1,0 +1,3484 @@
+Time resolution is 1 ps
+Block Memory Generator module tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_cpu_with_cache.uut.u_I_Cache.da_1.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_cpu_with_cache.uut.u_I_Cache.da_2.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_cpu_with_cache.uut.u_I_Cache.da_3.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_cpu_with_cache.uut.u_I_Cache.ta_1.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_cpu_with_cache.uut.u_I_Cache.ta_2.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_cpu_with_cache.uut.u_I_Cache.ta_3.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_cpu_with_cache.uut.u_D_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_cpu_with_cache.uut.u_D_Cache.da_1.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_cpu_with_cache.uut.u_D_Cache.da_2.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_cpu_with_cache.uut.u_D_Cache.da_3.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_cpu_with_cache.uut.u_D_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_cpu_with_cache.uut.u_D_Cache.ta_1.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_cpu_with_cache.uut.u_D_Cache.ta_2.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module tb_cpu_with_cache.uut.u_D_Cache.ta_3.inst.native_mem_module.blk_mem_gen_v8_4_8_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+=================================
+TIME=5000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=xxxxxxxx
+MEM_STAGE_INST = 00000000
+=================================
+TIME=15000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=xxxxxxxx
+MEM_STAGE_INST = 00000000
+=================================
+TIME=25000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=xxxxxxxx
+MEM_STAGE_INST = 00000000
+=================================
+TIME=35000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=xxxxxxxx
+MEM_STAGE_INST = 00000000
+=================================
+TIME=45000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=xxxxxxxx
+MEM_STAGE_INST = 00000000
+=================================
+TIME=55000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=xxxxxxxx
+MEM_STAGE_INST = 00000000
+=================================
+TIME=65000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=xxxxxxxx
+MEM_STAGE_INST = 00000000
+=================================
+TIME=75000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=xxxxxxxx
+MEM_STAGE_INST = 00000000
+=================================
+TIME=85000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=xxxxxxxx
+MEM_STAGE_INST = 00000000
+=================================
+TIME=95000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=xxxxxxxx
+MEM_STAGE_INST = 00000000
+=================================
+TIME=105000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=xxxxxxxx
+MEM_STAGE_INST = 00000000
+=================================
+TIME=115000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=xxxxxxxx
+MEM_STAGE_INST = 00000000
+=================================
+TIME=125000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=00000000
+RVALID=0
+RDATA=xxxxxxxx
+MEM_STAGE_INST = 00000000
+=================================
+TIME=135000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=xxxxxxxx
+MEM_STAGE_INST = 00000000
+=================================
+TIME=145000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=1
+RDATA=00500093
+MEM_STAGE_INST = 00000000
+=================================
+TIME=155000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=1
+RDATA=00700113
+MEM_STAGE_INST = 00000000
+=================================
+TIME=165000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=1
+RDATA=002081b3
+MEM_STAGE_INST = 00000000
+=================================
+TIME=175000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=1
+RDATA=00302023
+MEM_STAGE_INST = 00000000
+=================================
+TIME=185000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=00302023
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 185000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 0, B  read address: 0
+blk_mem_gen_v8_4_8 collision detected at time: 185000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 0, B  read address: 0
+=================================
+TIME=195000
+PC=00000000
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=00302023
+MEM_STAGE_INST = 00000000
+=================================
+TIME=205000
+PC=00000000
+INST=00500093
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=00302023
+MEM_STAGE_INST = 00000000
+=================================
+TIME=215000
+PC=00000004
+INST=00700113
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=00302023
+MEM_STAGE_INST = 00000000
+=================================
+TIME=225000
+PC=00000008
+INST=002081b3
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=00302023
+MEM_STAGE_INST = 00500093
+=================================
+TIME=235000
+PC=0000000c
+INST=00302023
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=00302023
+MEM_STAGE_INST = 00700113
+=================================
+TIME=245000
+PC=00000010
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000010
+RVALID=0
+RDATA=00302023
+MEM_STAGE_INST = 002081b3
+=================================
+TIME=255000
+PC=00000010
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000010
+RVALID=0
+RDATA=00302023
+MEM_STAGE_INST = 00302023
+=================================
+TIME=265000
+PC=00000010
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=1
+ARADDR=00000000
+RVALID=0
+RDATA=00302023
+MEM_STAGE_INST = 00302023
+=================================
+TIME=275000
+PC=00000010
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=00302023
+MEM_STAGE_INST = 00302023
+=================================
+TIME=285000
+PC=00000010
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000000
+RVALID=1
+RDATA=00500093
+MEM_STAGE_INST = 00302023
+=================================
+TIME=295000
+PC=00000010
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000000
+RVALID=1
+RDATA=00700113
+MEM_STAGE_INST = 00302023
+=================================
+TIME=305000
+PC=00000010
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000000
+RVALID=1
+RDATA=002081b3
+MEM_STAGE_INST = 00302023
+=================================
+TIME=315000
+PC=00000010
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000000
+RVALID=1
+RDATA=00302023
+MEM_STAGE_INST = 00302023
+=================================
+TIME=325000
+PC=00000010
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=1
+ARADDR=00000010
+RVALID=0
+RDATA=00302023
+MEM_STAGE_INST = 00302023
+blk_mem_gen_v8_4_8 collision detected at time: 325000, Instance: tb_cpu_with_cache.uut.u_D_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 0, B  read address: 0
+blk_mem_gen_v8_4_8 collision detected at time: 325000, Instance: tb_cpu_with_cache.uut.u_D_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 0, B  read address: 0
+=================================
+TIME=335000
+PC=00000010
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000010
+RVALID=0
+RDATA=00302023
+MEM_STAGE_INST = 00302023
+=================================
+TIME=345000
+PC=00000010
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000010
+RVALID=1
+RDATA=00002203
+MEM_STAGE_INST = 00302023
+blk_mem_gen_v8_4_8 collision detected at time: 345000, Instance: tb_cpu_with_cache.uut.u_D_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 0, B  read address: 0
+blk_mem_gen_v8_4_8 collision detected at time: 345000, Instance: tb_cpu_with_cache.uut.u_D_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 0, B  read address: 0
+=================================
+TIME=355000
+PC=00000010
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000010
+RVALID=1
+RDATA=00418463
+MEM_STAGE_INST = 00000000
+=================================
+TIME=365000
+PC=00000010
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000010
+RVALID=1
+RDATA=06300293
+MEM_STAGE_INST = 00000000
+=================================
+TIME=375000
+PC=00000010
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000010
+RVALID=1
+RDATA=04200313
+MEM_STAGE_INST = 00000000
+=================================
+TIME=385000
+PC=00000010
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000010
+RVALID=0
+RDATA=04200313
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 385000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 1, B  read address: 1
+blk_mem_gen_v8_4_8 collision detected at time: 385000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 1, B  read address: 1
+=================================
+TIME=395000
+PC=00000010
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000010
+RVALID=0
+RDATA=04200313
+MEM_STAGE_INST = 00000000
+=================================
+TIME=405000
+PC=00000010
+INST=00002203
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000010
+RVALID=0
+RDATA=04200313
+MEM_STAGE_INST = 00000000
+=================================
+TIME=415000
+PC=00000014
+INST=00418463
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000010
+RVALID=0
+RDATA=04200313
+MEM_STAGE_INST = 00000000
+=================================
+TIME=425000
+PC=00000014
+INST=00418463
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000010
+RVALID=0
+RDATA=04200313
+MEM_STAGE_INST = 00002203
+=================================
+TIME=435000
+PC=00000018
+INST=06300293
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000010
+RVALID=0
+RDATA=04200313
+MEM_STAGE_INST = 00000000
+=================================
+TIME=445000
+PC=00000018
+INST=06300293
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000010
+RVALID=0
+RDATA=04200313
+MEM_STAGE_INST = 00418463
+=================================
+TIME=455000
+PC=0000001c
+INST=04200313
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000010
+RVALID=0
+RDATA=04200313
+MEM_STAGE_INST = 00000000
+=================================
+TIME=465000
+PC=00000020
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000020
+RVALID=0
+RDATA=04200313
+MEM_STAGE_INST = 00000000
+=================================
+TIME=475000
+PC=00000020
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000020
+RVALID=0
+RDATA=04200313
+MEM_STAGE_INST = 04200313
+=================================
+TIME=485000
+PC=00000020
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=00000020
+RVALID=0
+RDATA=04200313
+MEM_STAGE_INST = 00000000
+=================================
+TIME=495000
+PC=00000020
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000020
+RVALID=0
+RDATA=04200313
+MEM_STAGE_INST = 00000000
+=================================
+TIME=505000
+PC=00000020
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000020
+RVALID=1
+RDATA=10000008
+MEM_STAGE_INST = 00000000
+=================================
+TIME=515000
+PC=00000020
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000020
+RVALID=1
+RDATA=10000009
+MEM_STAGE_INST = 00000000
+=================================
+TIME=525000
+PC=00000020
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000020
+RVALID=1
+RDATA=1000000a
+MEM_STAGE_INST = 00000000
+=================================
+TIME=535000
+PC=00000020
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000020
+RVALID=1
+RDATA=1000000b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=545000
+PC=00000020
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000020
+RVALID=0
+RDATA=1000000b
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 545000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 2, B  read address: 2
+blk_mem_gen_v8_4_8 collision detected at time: 545000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 2, B  read address: 2
+=================================
+TIME=555000
+PC=00000020
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000020
+RVALID=0
+RDATA=1000000b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=565000
+PC=00000020
+INST=10000008
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000020
+RVALID=0
+RDATA=1000000b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=575000
+PC=00000024
+INST=10000009
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000020
+RVALID=0
+RDATA=1000000b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=585000
+PC=00000028
+INST=1000000a
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000020
+RVALID=0
+RDATA=1000000b
+MEM_STAGE_INST = 10000008
+=================================
+TIME=595000
+PC=0000002c
+INST=1000000b
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000020
+RVALID=0
+RDATA=1000000b
+MEM_STAGE_INST = 10000009
+=================================
+TIME=605000
+PC=00000030
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000030
+RVALID=0
+RDATA=1000000b
+MEM_STAGE_INST = 1000000a
+=================================
+TIME=615000
+PC=00000030
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000030
+RVALID=0
+RDATA=1000000b
+MEM_STAGE_INST = 1000000b
+=================================
+TIME=625000
+PC=00000030
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=00000030
+RVALID=0
+RDATA=1000000b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=635000
+PC=00000030
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000030
+RVALID=0
+RDATA=1000000b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=645000
+PC=00000030
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000030
+RVALID=1
+RDATA=1000000c
+MEM_STAGE_INST = 00000000
+=================================
+TIME=655000
+PC=00000030
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000030
+RVALID=1
+RDATA=1000000d
+MEM_STAGE_INST = 00000000
+=================================
+TIME=665000
+PC=00000030
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000030
+RVALID=1
+RDATA=1000000e
+MEM_STAGE_INST = 00000000
+=================================
+TIME=675000
+PC=00000030
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000030
+RVALID=1
+RDATA=1000000f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=685000
+PC=00000030
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000030
+RVALID=0
+RDATA=1000000f
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 685000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 3, B  read address: 3
+blk_mem_gen_v8_4_8 collision detected at time: 685000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 3, B  read address: 3
+=================================
+TIME=695000
+PC=00000030
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000030
+RVALID=0
+RDATA=1000000f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=705000
+PC=00000030
+INST=1000000c
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000030
+RVALID=0
+RDATA=1000000f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=715000
+PC=00000034
+INST=1000000d
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000030
+RVALID=0
+RDATA=1000000f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=725000
+PC=00000038
+INST=1000000e
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000030
+RVALID=0
+RDATA=1000000f
+MEM_STAGE_INST = 1000000c
+=================================
+TIME=735000
+PC=0000003c
+INST=1000000f
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000030
+RVALID=0
+RDATA=1000000f
+MEM_STAGE_INST = 1000000d
+=================================
+TIME=745000
+PC=00000040
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000040
+RVALID=0
+RDATA=1000000f
+MEM_STAGE_INST = 1000000e
+=================================
+TIME=755000
+PC=00000040
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000040
+RVALID=0
+RDATA=1000000f
+MEM_STAGE_INST = 1000000f
+=================================
+TIME=765000
+PC=00000040
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=00000040
+RVALID=0
+RDATA=1000000f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=775000
+PC=00000040
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000040
+RVALID=0
+RDATA=1000000f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=785000
+PC=00000040
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000040
+RVALID=1
+RDATA=10000010
+MEM_STAGE_INST = 00000000
+=================================
+TIME=795000
+PC=00000040
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000040
+RVALID=1
+RDATA=10000011
+MEM_STAGE_INST = 00000000
+=================================
+TIME=805000
+PC=00000040
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000040
+RVALID=1
+RDATA=10000012
+MEM_STAGE_INST = 00000000
+=================================
+TIME=815000
+PC=00000040
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000040
+RVALID=1
+RDATA=10000013
+MEM_STAGE_INST = 00000000
+=================================
+TIME=825000
+PC=00000040
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000040
+RVALID=0
+RDATA=10000013
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 825000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 4, B  read address: 4
+blk_mem_gen_v8_4_8 collision detected at time: 825000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 4, B  read address: 4
+=================================
+TIME=835000
+PC=00000040
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000040
+RVALID=0
+RDATA=10000013
+MEM_STAGE_INST = 00000000
+=================================
+TIME=845000
+PC=00000040
+INST=10000010
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000040
+RVALID=0
+RDATA=10000013
+MEM_STAGE_INST = 00000000
+=================================
+TIME=855000
+PC=00000044
+INST=10000011
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000040
+RVALID=0
+RDATA=10000013
+MEM_STAGE_INST = 00000000
+=================================
+TIME=865000
+PC=00000048
+INST=10000012
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000040
+RVALID=0
+RDATA=10000013
+MEM_STAGE_INST = 10000010
+=================================
+TIME=875000
+PC=0000004c
+INST=10000013
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000040
+RVALID=0
+RDATA=10000013
+MEM_STAGE_INST = 10000011
+=================================
+TIME=885000
+PC=00000050
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000050
+RVALID=0
+RDATA=10000013
+MEM_STAGE_INST = 10000012
+=================================
+TIME=895000
+PC=00000050
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000050
+RVALID=0
+RDATA=10000013
+MEM_STAGE_INST = 10000013
+=================================
+TIME=905000
+PC=00000050
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=00000050
+RVALID=0
+RDATA=10000013
+MEM_STAGE_INST = 00000000
+=================================
+TIME=915000
+PC=00000050
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000050
+RVALID=0
+RDATA=10000013
+MEM_STAGE_INST = 00000000
+=================================
+TIME=925000
+PC=00000050
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000050
+RVALID=1
+RDATA=10000014
+MEM_STAGE_INST = 00000000
+=================================
+TIME=935000
+PC=00000050
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000050
+RVALID=1
+RDATA=10000015
+MEM_STAGE_INST = 00000000
+=================================
+TIME=945000
+PC=00000050
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000050
+RVALID=1
+RDATA=10000016
+MEM_STAGE_INST = 00000000
+=================================
+TIME=955000
+PC=00000050
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000050
+RVALID=1
+RDATA=10000017
+MEM_STAGE_INST = 00000000
+=================================
+TIME=965000
+PC=00000050
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000050
+RVALID=0
+RDATA=10000017
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 965000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 5, B  read address: 5
+blk_mem_gen_v8_4_8 collision detected at time: 965000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 5, B  read address: 5
+=================================
+TIME=975000
+PC=00000050
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000050
+RVALID=0
+RDATA=10000017
+MEM_STAGE_INST = 00000000
+=================================
+TIME=985000
+PC=00000050
+INST=10000014
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000050
+RVALID=0
+RDATA=10000017
+MEM_STAGE_INST = 00000000
+=================================
+TIME=995000
+PC=00000054
+INST=10000015
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000050
+RVALID=0
+RDATA=10000017
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1005000
+PC=00000058
+INST=10000016
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000050
+RVALID=0
+RDATA=10000017
+MEM_STAGE_INST = 10000014
+=================================
+TIME=1015000
+PC=0000005c
+INST=10000017
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000050
+RVALID=0
+RDATA=10000017
+MEM_STAGE_INST = 10000015
+=================================
+TIME=1025000
+PC=00000060
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000060
+RVALID=0
+RDATA=10000017
+MEM_STAGE_INST = 10000016
+=================================
+TIME=1035000
+PC=00000060
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000060
+RVALID=0
+RDATA=10000017
+MEM_STAGE_INST = 10000017
+=================================
+TIME=1045000
+PC=00000060
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=00000060
+RVALID=0
+RDATA=10000017
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1055000
+PC=00000060
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000060
+RVALID=0
+RDATA=10000017
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1065000
+PC=00000060
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000060
+RVALID=1
+RDATA=10000018
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1075000
+PC=00000060
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000060
+RVALID=1
+RDATA=10000019
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1085000
+PC=00000060
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000060
+RVALID=1
+RDATA=1000001a
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1095000
+PC=00000060
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000060
+RVALID=1
+RDATA=1000001b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1105000
+PC=00000060
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000060
+RVALID=0
+RDATA=1000001b
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 1105000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 6, B  read address: 6
+blk_mem_gen_v8_4_8 collision detected at time: 1105000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 6, B  read address: 6
+=================================
+TIME=1115000
+PC=00000060
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000060
+RVALID=0
+RDATA=1000001b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1125000
+PC=00000060
+INST=10000018
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000060
+RVALID=0
+RDATA=1000001b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1135000
+PC=00000064
+INST=10000019
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000060
+RVALID=0
+RDATA=1000001b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1145000
+PC=00000068
+INST=1000001a
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000060
+RVALID=0
+RDATA=1000001b
+MEM_STAGE_INST = 10000018
+=================================
+TIME=1155000
+PC=0000006c
+INST=1000001b
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000060
+RVALID=0
+RDATA=1000001b
+MEM_STAGE_INST = 10000019
+=================================
+TIME=1165000
+PC=00000070
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000070
+RVALID=0
+RDATA=1000001b
+MEM_STAGE_INST = 1000001a
+=================================
+TIME=1175000
+PC=00000070
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000070
+RVALID=0
+RDATA=1000001b
+MEM_STAGE_INST = 1000001b
+=================================
+TIME=1185000
+PC=00000070
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=00000070
+RVALID=0
+RDATA=1000001b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1195000
+PC=00000070
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000070
+RVALID=0
+RDATA=1000001b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1205000
+PC=00000070
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000070
+RVALID=1
+RDATA=1000001c
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1215000
+PC=00000070
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000070
+RVALID=1
+RDATA=1000001d
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1225000
+PC=00000070
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000070
+RVALID=1
+RDATA=1000001e
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1235000
+PC=00000070
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000070
+RVALID=1
+RDATA=1000001f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1245000
+PC=00000070
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000070
+RVALID=0
+RDATA=1000001f
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 1245000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 7, B  read address: 7
+blk_mem_gen_v8_4_8 collision detected at time: 1245000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 7, B  read address: 7
+=================================
+TIME=1255000
+PC=00000070
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000070
+RVALID=0
+RDATA=1000001f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1265000
+PC=00000070
+INST=1000001c
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000070
+RVALID=0
+RDATA=1000001f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1275000
+PC=00000074
+INST=1000001d
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000070
+RVALID=0
+RDATA=1000001f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1285000
+PC=00000078
+INST=1000001e
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000070
+RVALID=0
+RDATA=1000001f
+MEM_STAGE_INST = 1000001c
+=================================
+TIME=1295000
+PC=0000007c
+INST=1000001f
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000070
+RVALID=0
+RDATA=1000001f
+MEM_STAGE_INST = 1000001d
+=================================
+TIME=1305000
+PC=00000080
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000080
+RVALID=0
+RDATA=1000001f
+MEM_STAGE_INST = 1000001e
+=================================
+TIME=1315000
+PC=00000080
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000080
+RVALID=0
+RDATA=1000001f
+MEM_STAGE_INST = 1000001f
+=================================
+TIME=1325000
+PC=00000080
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=00000080
+RVALID=0
+RDATA=1000001f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1335000
+PC=00000080
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000080
+RVALID=0
+RDATA=1000001f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1345000
+PC=00000080
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000080
+RVALID=1
+RDATA=10000020
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1355000
+PC=00000080
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000080
+RVALID=1
+RDATA=10000021
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1365000
+PC=00000080
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000080
+RVALID=1
+RDATA=10000022
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1375000
+PC=00000080
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000080
+RVALID=1
+RDATA=10000023
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1385000
+PC=00000080
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000080
+RVALID=0
+RDATA=10000023
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 1385000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 8, B  read address: 8
+blk_mem_gen_v8_4_8 collision detected at time: 1385000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 8, B  read address: 8
+=================================
+TIME=1395000
+PC=00000080
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000080
+RVALID=0
+RDATA=10000023
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1405000
+PC=00000080
+INST=10000020
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000080
+RVALID=0
+RDATA=10000023
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1415000
+PC=00000084
+INST=10000021
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000080
+RVALID=0
+RDATA=10000023
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1425000
+PC=00000088
+INST=10000022
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000080
+RVALID=0
+RDATA=10000023
+MEM_STAGE_INST = 10000020
+=================================
+TIME=1435000
+PC=0000008c
+INST=10000023
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000080
+RVALID=0
+RDATA=10000023
+MEM_STAGE_INST = 10000021
+=================================
+TIME=1445000
+PC=00000090
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000090
+RVALID=0
+RDATA=10000023
+MEM_STAGE_INST = 10000022
+=================================
+TIME=1455000
+PC=00000090
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000090
+RVALID=0
+RDATA=10000023
+MEM_STAGE_INST = 10000023
+=================================
+TIME=1465000
+PC=00000090
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=1
+ARADDR=00000090
+RVALID=0
+RDATA=10000023
+MEM_STAGE_INST = 10000023
+=================================
+TIME=1475000
+PC=00000090
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000090
+RVALID=0
+RDATA=10000023
+MEM_STAGE_INST = 10000023
+=================================
+TIME=1485000
+PC=00000090
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000090
+RVALID=1
+RDATA=10000024
+MEM_STAGE_INST = 10000023
+=================================
+TIME=1495000
+PC=00000090
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000090
+RVALID=1
+RDATA=10000025
+MEM_STAGE_INST = 10000023
+=================================
+TIME=1505000
+PC=00000090
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000090
+RVALID=1
+RDATA=10000026
+MEM_STAGE_INST = 10000023
+=================================
+TIME=1515000
+PC=00000090
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000090
+RVALID=1
+RDATA=10000027
+MEM_STAGE_INST = 10000023
+=================================
+TIME=1525000
+PC=00000090
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=1
+ARADDR=00000100
+RVALID=0
+RDATA=10000027
+MEM_STAGE_INST = 10000023
+blk_mem_gen_v8_4_8 collision detected at time: 1525000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 9, B  read address: 9
+blk_mem_gen_v8_4_8 collision detected at time: 1525000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 9, B  read address: 9
+=================================
+TIME=1535000
+PC=00000090
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000100
+RVALID=0
+RDATA=10000027
+MEM_STAGE_INST = 10000023
+=================================
+TIME=1545000
+PC=00000090
+INST=00000000
+cpu_ready_I=1
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000100
+RVALID=1
+RDATA=10000040
+MEM_STAGE_INST = 10000023
+=================================
+TIME=1555000
+PC=00000090
+INST=00000000
+cpu_ready_I=1
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000100
+RVALID=1
+RDATA=10000041
+MEM_STAGE_INST = 10000023
+=================================
+TIME=1565000
+PC=00000090
+INST=00000000
+cpu_ready_I=1
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000100
+RVALID=1
+RDATA=10000042
+MEM_STAGE_INST = 10000023
+=================================
+TIME=1575000
+PC=00000090
+INST=00000000
+cpu_ready_I=1
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000100
+RVALID=1
+RDATA=10000043
+MEM_STAGE_INST = 10000023
+=================================
+TIME=1585000
+PC=00000090
+INST=00000000
+cpu_ready_I=1
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000100
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 10000023
+blk_mem_gen_v8_4_8 collision detected at time: 1585000, Instance: tb_cpu_with_cache.uut.u_D_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 10, B  read address: 10
+blk_mem_gen_v8_4_8 collision detected at time: 1585000, Instance: tb_cpu_with_cache.uut.u_D_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 10, B  read address: 10
+=================================
+TIME=1595000
+PC=00000090
+INST=00000000
+cpu_ready_I=1
+cpu_ready_D=0
+ARVALID=0
+ARADDR=00000100
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 10000023
+=================================
+TIME=1605000
+PC=00000090
+INST=00000000
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000100
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 10000023
+blk_mem_gen_v8_4_8 collision detected at time: 1605000, Instance: tb_cpu_with_cache.uut.u_D_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 10, B  read address: 10
+blk_mem_gen_v8_4_8 collision detected at time: 1605000, Instance: tb_cpu_with_cache.uut.u_D_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 10, B  read address: 10
+=================================
+TIME=1615000
+PC=00000094
+INST=10000025
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1625000
+PC=00000098
+INST=10000026
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1635000
+PC=0000009c
+INST=10000027
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 10000025
+=================================
+TIME=1645000
+PC=000000a0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 10000026
+=================================
+TIME=1655000
+PC=000000a0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000000
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 10000027
+=================================
+TIME=1665000
+PC=000000a0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=000000a0
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1675000
+PC=000000a0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000a0
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1685000
+PC=000000a0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000a0
+RVALID=1
+RDATA=10000028
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1695000
+PC=000000a0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000a0
+RVALID=1
+RDATA=10000029
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1705000
+PC=000000a0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000a0
+RVALID=1
+RDATA=1000002a
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1715000
+PC=000000a0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000a0
+RVALID=1
+RDATA=1000002b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1725000
+PC=000000a0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000a0
+RVALID=0
+RDATA=1000002b
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 1725000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: a, B  read address: a
+blk_mem_gen_v8_4_8 collision detected at time: 1725000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: a, B  read address: a
+=================================
+TIME=1735000
+PC=000000a0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000a0
+RVALID=0
+RDATA=1000002b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1745000
+PC=000000a0
+INST=10000028
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000a0
+RVALID=0
+RDATA=1000002b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1755000
+PC=000000a4
+INST=10000029
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000a0
+RVALID=0
+RDATA=1000002b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1765000
+PC=000000a8
+INST=1000002a
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000a0
+RVALID=0
+RDATA=1000002b
+MEM_STAGE_INST = 10000028
+=================================
+TIME=1775000
+PC=000000ac
+INST=1000002b
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000a0
+RVALID=0
+RDATA=1000002b
+MEM_STAGE_INST = 10000029
+=================================
+TIME=1785000
+PC=000000b0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000b0
+RVALID=0
+RDATA=1000002b
+MEM_STAGE_INST = 1000002a
+=================================
+TIME=1795000
+PC=000000b0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000b0
+RVALID=0
+RDATA=1000002b
+MEM_STAGE_INST = 1000002b
+=================================
+TIME=1805000
+PC=000000b0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=000000b0
+RVALID=0
+RDATA=1000002b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1815000
+PC=000000b0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000b0
+RVALID=0
+RDATA=1000002b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1825000
+PC=000000b0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000b0
+RVALID=1
+RDATA=1000002c
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1835000
+PC=000000b0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000b0
+RVALID=1
+RDATA=1000002d
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1845000
+PC=000000b0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000b0
+RVALID=1
+RDATA=1000002e
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1855000
+PC=000000b0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000b0
+RVALID=1
+RDATA=1000002f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1865000
+PC=000000b0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000b0
+RVALID=0
+RDATA=1000002f
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 1865000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: b, B  read address: b
+blk_mem_gen_v8_4_8 collision detected at time: 1865000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: b, B  read address: b
+=================================
+TIME=1875000
+PC=000000b0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000b0
+RVALID=0
+RDATA=1000002f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1885000
+PC=000000b0
+INST=1000002c
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000b0
+RVALID=0
+RDATA=1000002f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1895000
+PC=000000b4
+INST=1000002d
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000b0
+RVALID=0
+RDATA=1000002f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1905000
+PC=000000b8
+INST=1000002e
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000b0
+RVALID=0
+RDATA=1000002f
+MEM_STAGE_INST = 1000002c
+=================================
+TIME=1915000
+PC=000000bc
+INST=1000002f
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000b0
+RVALID=0
+RDATA=1000002f
+MEM_STAGE_INST = 1000002d
+=================================
+TIME=1925000
+PC=000000c0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000c0
+RVALID=0
+RDATA=1000002f
+MEM_STAGE_INST = 1000002e
+=================================
+TIME=1935000
+PC=000000c0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000c0
+RVALID=0
+RDATA=1000002f
+MEM_STAGE_INST = 1000002f
+=================================
+TIME=1945000
+PC=000000c0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=000000c0
+RVALID=0
+RDATA=1000002f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1955000
+PC=000000c0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000c0
+RVALID=0
+RDATA=1000002f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1965000
+PC=000000c0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000c0
+RVALID=1
+RDATA=10000030
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1975000
+PC=000000c0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000c0
+RVALID=1
+RDATA=10000031
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1985000
+PC=000000c0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000c0
+RVALID=1
+RDATA=10000032
+MEM_STAGE_INST = 00000000
+=================================
+TIME=1995000
+PC=000000c0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000c0
+RVALID=1
+RDATA=10000033
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2005000
+PC=000000c0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000c0
+RVALID=0
+RDATA=10000033
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 2005000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: c, B  read address: c
+blk_mem_gen_v8_4_8 collision detected at time: 2005000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: c, B  read address: c
+=================================
+TIME=2015000
+PC=000000c0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000c0
+RVALID=0
+RDATA=10000033
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2025000
+PC=000000c0
+INST=10000030
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000c0
+RVALID=0
+RDATA=10000033
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2035000
+PC=000000c4
+INST=10000031
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000c0
+RVALID=0
+RDATA=10000033
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2045000
+PC=000000c8
+INST=10000032
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000c0
+RVALID=0
+RDATA=10000033
+MEM_STAGE_INST = 10000030
+=================================
+TIME=2055000
+PC=000000cc
+INST=10000033
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000c0
+RVALID=0
+RDATA=10000033
+MEM_STAGE_INST = 10000031
+=================================
+TIME=2065000
+PC=000000d0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000d0
+RVALID=0
+RDATA=10000033
+MEM_STAGE_INST = 10000032
+=================================
+TIME=2075000
+PC=000000d0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000d0
+RVALID=0
+RDATA=10000033
+MEM_STAGE_INST = 10000033
+=================================
+TIME=2085000
+PC=000000d0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=000000d0
+RVALID=0
+RDATA=10000033
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2095000
+PC=000000d0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000d0
+RVALID=0
+RDATA=10000033
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2105000
+PC=000000d0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000d0
+RVALID=1
+RDATA=10000034
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2115000
+PC=000000d0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000d0
+RVALID=1
+RDATA=10000035
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2125000
+PC=000000d0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000d0
+RVALID=1
+RDATA=10000036
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2135000
+PC=000000d0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000d0
+RVALID=1
+RDATA=10000037
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2145000
+PC=000000d0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000d0
+RVALID=0
+RDATA=10000037
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 2145000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: d, B  read address: d
+blk_mem_gen_v8_4_8 collision detected at time: 2145000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: d, B  read address: d
+=================================
+TIME=2155000
+PC=000000d0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000d0
+RVALID=0
+RDATA=10000037
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2165000
+PC=000000d0
+INST=10000034
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000d0
+RVALID=0
+RDATA=10000037
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2175000
+PC=000000d4
+INST=10000035
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000d0
+RVALID=0
+RDATA=10000037
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2185000
+PC=000000d8
+INST=10000036
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000d0
+RVALID=0
+RDATA=10000037
+MEM_STAGE_INST = 10000034
+=================================
+TIME=2195000
+PC=000000dc
+INST=10000037
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000d0
+RVALID=0
+RDATA=10000037
+MEM_STAGE_INST = 10000035
+=================================
+TIME=2205000
+PC=000000e0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000e0
+RVALID=0
+RDATA=10000037
+MEM_STAGE_INST = 10000036
+=================================
+TIME=2215000
+PC=000000e0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000e0
+RVALID=0
+RDATA=10000037
+MEM_STAGE_INST = 10000037
+=================================
+TIME=2225000
+PC=000000e0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=000000e0
+RVALID=0
+RDATA=10000037
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2235000
+PC=000000e0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000e0
+RVALID=0
+RDATA=10000037
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2245000
+PC=000000e0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000e0
+RVALID=1
+RDATA=10000038
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2255000
+PC=000000e0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000e0
+RVALID=1
+RDATA=10000039
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2265000
+PC=000000e0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000e0
+RVALID=1
+RDATA=1000003a
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2275000
+PC=000000e0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000e0
+RVALID=1
+RDATA=1000003b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2285000
+PC=000000e0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000e0
+RVALID=0
+RDATA=1000003b
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 2285000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: e, B  read address: e
+blk_mem_gen_v8_4_8 collision detected at time: 2285000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: e, B  read address: e
+=================================
+TIME=2295000
+PC=000000e0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000e0
+RVALID=0
+RDATA=1000003b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2305000
+PC=000000e0
+INST=10000038
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000e0
+RVALID=0
+RDATA=1000003b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2315000
+PC=000000e4
+INST=10000039
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000e0
+RVALID=0
+RDATA=1000003b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2325000
+PC=000000e8
+INST=1000003a
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000e0
+RVALID=0
+RDATA=1000003b
+MEM_STAGE_INST = 10000038
+=================================
+TIME=2335000
+PC=000000ec
+INST=1000003b
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000e0
+RVALID=0
+RDATA=1000003b
+MEM_STAGE_INST = 10000039
+=================================
+TIME=2345000
+PC=000000f0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000f0
+RVALID=0
+RDATA=1000003b
+MEM_STAGE_INST = 1000003a
+=================================
+TIME=2355000
+PC=000000f0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000f0
+RVALID=0
+RDATA=1000003b
+MEM_STAGE_INST = 1000003b
+=================================
+TIME=2365000
+PC=000000f0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=000000f0
+RVALID=0
+RDATA=1000003b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2375000
+PC=000000f0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000f0
+RVALID=0
+RDATA=1000003b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2385000
+PC=000000f0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000f0
+RVALID=1
+RDATA=1000003c
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2395000
+PC=000000f0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000f0
+RVALID=1
+RDATA=1000003d
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2405000
+PC=000000f0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000f0
+RVALID=1
+RDATA=1000003e
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2415000
+PC=000000f0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000f0
+RVALID=1
+RDATA=1000003f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2425000
+PC=000000f0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000f0
+RVALID=0
+RDATA=1000003f
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 2425000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: f, B  read address: f
+blk_mem_gen_v8_4_8 collision detected at time: 2425000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: f, B  read address: f
+=================================
+TIME=2435000
+PC=000000f0
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000f0
+RVALID=0
+RDATA=1000003f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2445000
+PC=000000f0
+INST=1000003c
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000f0
+RVALID=0
+RDATA=1000003f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2455000
+PC=000000f4
+INST=1000003d
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000f0
+RVALID=0
+RDATA=1000003f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2465000
+PC=000000f8
+INST=1000003e
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000f0
+RVALID=0
+RDATA=1000003f
+MEM_STAGE_INST = 1000003c
+=================================
+TIME=2475000
+PC=000000fc
+INST=1000003f
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=000000f0
+RVALID=0
+RDATA=1000003f
+MEM_STAGE_INST = 1000003d
+=================================
+TIME=2485000
+PC=00000100
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000100
+RVALID=0
+RDATA=1000003f
+MEM_STAGE_INST = 1000003e
+=================================
+TIME=2495000
+PC=00000100
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000100
+RVALID=0
+RDATA=1000003f
+MEM_STAGE_INST = 1000003f
+=================================
+TIME=2505000
+PC=00000100
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=00000100
+RVALID=0
+RDATA=1000003f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2515000
+PC=00000100
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000100
+RVALID=0
+RDATA=1000003f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2525000
+PC=00000100
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000100
+RVALID=1
+RDATA=10000040
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2535000
+PC=00000100
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000100
+RVALID=1
+RDATA=10000041
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2545000
+PC=00000100
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000100
+RVALID=1
+RDATA=10000042
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2555000
+PC=00000100
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000100
+RVALID=1
+RDATA=10000043
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2565000
+PC=00000100
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000100
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 2565000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 10, B  read address: 10
+blk_mem_gen_v8_4_8 collision detected at time: 2565000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 10, B  read address: 10
+=================================
+TIME=2575000
+PC=00000100
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000100
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2585000
+PC=00000100
+INST=10000040
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000100
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2595000
+PC=00000104
+INST=10000041
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000100
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2605000
+PC=00000108
+INST=10000042
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000100
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 10000040
+=================================
+TIME=2615000
+PC=0000010c
+INST=10000043
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000100
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 10000041
+=================================
+TIME=2625000
+PC=00000110
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000110
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 10000042
+=================================
+TIME=2635000
+PC=00000110
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000110
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 10000043
+=================================
+TIME=2645000
+PC=00000110
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=00000110
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2655000
+PC=00000110
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000110
+RVALID=0
+RDATA=10000043
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2665000
+PC=00000110
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000110
+RVALID=1
+RDATA=10000044
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2675000
+PC=00000110
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000110
+RVALID=1
+RDATA=10000045
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2685000
+PC=00000110
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000110
+RVALID=1
+RDATA=10000046
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2695000
+PC=00000110
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000110
+RVALID=1
+RDATA=10000047
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2705000
+PC=00000110
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000110
+RVALID=0
+RDATA=10000047
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 2705000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 11, B  read address: 11
+blk_mem_gen_v8_4_8 collision detected at time: 2705000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 11, B  read address: 11
+=================================
+TIME=2715000
+PC=00000110
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000110
+RVALID=0
+RDATA=10000047
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2725000
+PC=00000110
+INST=10000044
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000110
+RVALID=0
+RDATA=10000047
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2735000
+PC=00000114
+INST=10000045
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000110
+RVALID=0
+RDATA=10000047
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2745000
+PC=00000118
+INST=10000046
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000110
+RVALID=0
+RDATA=10000047
+MEM_STAGE_INST = 10000044
+=================================
+TIME=2755000
+PC=0000011c
+INST=10000047
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000110
+RVALID=0
+RDATA=10000047
+MEM_STAGE_INST = 10000045
+=================================
+TIME=2765000
+PC=00000120
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000120
+RVALID=0
+RDATA=10000047
+MEM_STAGE_INST = 10000046
+=================================
+TIME=2775000
+PC=00000120
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000120
+RVALID=0
+RDATA=10000047
+MEM_STAGE_INST = 10000047
+=================================
+TIME=2785000
+PC=00000120
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=00000120
+RVALID=0
+RDATA=10000047
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2795000
+PC=00000120
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000120
+RVALID=0
+RDATA=10000047
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2805000
+PC=00000120
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000120
+RVALID=1
+RDATA=10000048
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2815000
+PC=00000120
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000120
+RVALID=1
+RDATA=10000049
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2825000
+PC=00000120
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000120
+RVALID=1
+RDATA=1000004a
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2835000
+PC=00000120
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000120
+RVALID=1
+RDATA=1000004b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2845000
+PC=00000120
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000120
+RVALID=0
+RDATA=1000004b
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 2845000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 12, B  read address: 12
+blk_mem_gen_v8_4_8 collision detected at time: 2845000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 12, B  read address: 12
+=================================
+TIME=2855000
+PC=00000120
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000120
+RVALID=0
+RDATA=1000004b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2865000
+PC=00000120
+INST=10000048
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000120
+RVALID=0
+RDATA=1000004b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2875000
+PC=00000124
+INST=10000049
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000120
+RVALID=0
+RDATA=1000004b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2885000
+PC=00000128
+INST=1000004a
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000120
+RVALID=0
+RDATA=1000004b
+MEM_STAGE_INST = 10000048
+=================================
+TIME=2895000
+PC=0000012c
+INST=1000004b
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000120
+RVALID=0
+RDATA=1000004b
+MEM_STAGE_INST = 10000049
+=================================
+TIME=2905000
+PC=00000130
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000130
+RVALID=0
+RDATA=1000004b
+MEM_STAGE_INST = 1000004a
+=================================
+TIME=2915000
+PC=00000130
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000130
+RVALID=0
+RDATA=1000004b
+MEM_STAGE_INST = 1000004b
+=================================
+TIME=2925000
+PC=00000130
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=00000130
+RVALID=0
+RDATA=1000004b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2935000
+PC=00000130
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000130
+RVALID=0
+RDATA=1000004b
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2945000
+PC=00000130
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000130
+RVALID=1
+RDATA=1000004c
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2955000
+PC=00000130
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000130
+RVALID=1
+RDATA=1000004d
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2965000
+PC=00000130
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000130
+RVALID=1
+RDATA=1000004e
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2975000
+PC=00000130
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000130
+RVALID=1
+RDATA=1000004f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=2985000
+PC=00000130
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000130
+RVALID=0
+RDATA=1000004f
+MEM_STAGE_INST = 00000000
+blk_mem_gen_v8_4_8 collision detected at time: 2985000, Instance: tb_cpu_with_cache.uut.u_I_Cache.da_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 13, B  read address: 13
+blk_mem_gen_v8_4_8 collision detected at time: 2985000, Instance: tb_cpu_with_cache.uut.u_I_Cache.ta_0.inst.native_mem_module.blk_mem_gen_v8_4_8_inst, A write address: 13, B  read address: 13
+=================================
+TIME=2995000
+PC=00000130
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000130
+RVALID=0
+RDATA=1000004f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=3005000
+PC=00000130
+INST=1000004c
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000130
+RVALID=0
+RDATA=1000004f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=3015000
+PC=00000134
+INST=1000004d
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000130
+RVALID=0
+RDATA=1000004f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=3025000
+PC=00000138
+INST=1000004e
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000130
+RVALID=0
+RDATA=1000004f
+MEM_STAGE_INST = 1000004c
+=================================
+TIME=3035000
+PC=0000013c
+INST=1000004f
+cpu_ready_I=1
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000130
+RVALID=0
+RDATA=1000004f
+MEM_STAGE_INST = 1000004d
+=================================
+TIME=3045000
+PC=00000140
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000140
+RVALID=0
+RDATA=1000004f
+MEM_STAGE_INST = 1000004e
+=================================
+TIME=3055000
+PC=00000140
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000140
+RVALID=0
+RDATA=1000004f
+MEM_STAGE_INST = 1000004f
+=================================
+TIME=3065000
+PC=00000140
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=1
+ARADDR=00000140
+RVALID=0
+RDATA=1000004f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=3075000
+PC=00000140
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000140
+RVALID=0
+RDATA=1000004f
+MEM_STAGE_INST = 00000000
+=================================
+TIME=3085000
+PC=00000140
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000140
+RVALID=1
+RDATA=10000050
+MEM_STAGE_INST = 00000000
+=================================
+TIME=3095000
+PC=00000140
+INST=00000000
+cpu_ready_I=0
+cpu_ready_D=1
+ARVALID=0
+ARADDR=00000140
+RVALID=1
+RDATA=10000051
+MEM_STAGE_INST = 00000000
+=================================
+x1 = 00000005
+x2 = 00000007
+x3 = 0000000c
+x4 = 0000000c
+x5 = 00000000
+x6 = 00000042
+MEM[0] = 00500093
+$finish called at time : 3100 ns : File "C:/Users/11545/Desktop/Zynq CPU/Pipelined_CPU_With_Cache/Pipelined_CPU_With_Cache.srcs/sim_1/new/tb_cpu_with_cache.v" Line 123

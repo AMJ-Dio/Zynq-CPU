@@ -1,0 +1,12 @@
+xpm_memory.sv,systemverilog,xpm,../../../../../../../../Xilinx/Vivado/2024.1/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv,
+xpm_VCOMP.vhd,vhdl,xpm,../../../../../../../../Xilinx/Vivado/2024.1/data/ip/xpm/xpm_VCOMP.vhd,
+ALU.v,verilog,xil_defaultlib,../../../Single_Period_CPU.srcs/sources_1/new/ALU.v,
+Branch_Comp.v,verilog,xil_defaultlib,../../../Single_Period_CPU.srcs/sources_1/new/Branch_Comp.v,
+Control_Logic.v,verilog,xil_defaultlib,../../../Single_Period_CPU.srcs/sources_1/new/Control_Logic.v,
+Imm_gen.v,verilog,xil_defaultlib,../../../Single_Period_CPU.srcs/sources_1/new/Imm_gen.v,
+RegFile.v,verilog,xil_defaultlib,../../../Single_Period_CPU.srcs/sources_1/new/RegFile.v,
+Register.v,verilog,xil_defaultlib,../../../Single_Period_CPU.srcs/sources_1/new/Register.v,
+partial_load.v,verilog,xil_defaultlib,../../../Single_Period_CPU.srcs/sources_1/new/partial_load.v,
+partial_store.v,verilog,xil_defaultlib,../../../Single_Period_CPU.srcs/sources_1/new/partial_store.v,
+Single_Period_CPU.v,verilog,xil_defaultlib,../../../Single_Period_CPU.srcs/sources_1/new/Single_Period_CPU.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
